@@ -1,6 +1,6 @@
 import java.awt.*;
 import javax.swing.*;
-
+//Edit
 public class YellowBall extends Ball{
 
 	public YellowBall(double speed, int startYPos){
